@@ -1,33 +1,33 @@
 [
 
 {"id":1,
-"name": "a",},
+"name": "a"},
 
 {"id":2,
-"name": "b",},
+"name": "b"},
 
 {"id":3,
-"name":"c",},
+"name":"c"},
 
 {"id":4,
-"name":"d",},
+"name":"d"},
 
 {"id":5,
-"name":"e",},
+"name":"e"},
 
 {"id":6,
-"name":"f",},
+"name":"f"},
 
 {"id":7,
-"name":"g",},
+"name":"g"},
 
 {"id":8,
-"name":"h",},
+"name":"h"},
 
 {"id":9,
-"name":"i",},
+"name":"i"},
 
 {"id":10,
-"name":"j",},
+"name":"j"}
 
-],
+]
